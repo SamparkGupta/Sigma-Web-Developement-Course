@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(244, 209, 215);
+    color:brown;
+}
+td,th,table{
+    border: 2px solid brown;
+}
+.bookmark{
+   background-color:rgb(26, 179, 21);
+}
+#ashubh{
+    color:black;
+}
+#ek{
+    color:rgb(230, 5, 177);
+}

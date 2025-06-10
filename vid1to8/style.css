@@ -1,0 +1,7 @@
+body{
+    background-color:rgb(244, 209, 215);
+    color:brown;
+}
+td,th,table{
+    border: 2px solid brown;
+}
